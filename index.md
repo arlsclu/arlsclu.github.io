@@ -4,9 +4,10 @@
 - (md.html)
 # [linux内核]
 - (kernel.html)
-# [gnu 工具](utility.html)
+# [gnu 工具]
+- [gnu](utility.html)
 # [go]
-- go(go.html)
+- [go](go.html)
 # [设计模式](pattern.html)
 # [mysql](mysql.html)
 # [redis](redis.html)

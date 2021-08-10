@@ -1,11 +1,12 @@
 # [*next*]
-    - (next.html)
+- (next.html)
 # [markdown ]
-    - (md.html)
-# [linux内核](kernel.html)
+- (md.html)
+# [linux内核]
+- (kernel.html)
 # [gnu 工具](utility.html)
 # [go]
-    - (go.html)
+- go(go.html)
 # [设计模式](pattern.html)
 # [mysql](mysql.html)
 # [redis](redis.html)

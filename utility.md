@@ -11,4 +11,5 @@
 
  - kill
  - jq
+   - -f
  - pbcopy, pbpaste

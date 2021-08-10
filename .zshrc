@@ -136,7 +136,8 @@ nosproxy () {
   echo "shadowsock HTTP Proxy off"
 }
 
-alias open="open -a /Applications/Typora.app"
+alias openmd="open -a /Applications/Typora.app"
+alias open="open -a TextEdit"
 alias pjq="pbpaste | jq" 
 alias mdpush="cd /usr/local/var/code/arlsclu7.github.io
 git commit -am 'modify'

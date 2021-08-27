@@ -1,4 +1,3 @@
-+ [*next*](next.html)
 + [markdown ](md.html)
 + [linux](linux.html)
 + [gnu 工具](utility.html)

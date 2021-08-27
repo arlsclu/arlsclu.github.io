@@ -58,26 +58,23 @@
    + tool        run specified go tool
    + version     print Go version
    + vet         report likely mistakes in packages
-+ topics 
-	+ buildconstraint build constraints
-	+ buildmode       build modes
-	+ c               calling between Go and C
-	+ cache           build and test caching
-	+ environment     environment variables
-	+ filetype        file types
-	+ go.mod          the go.mod file
-	+ gopath          GOPATH environment variable
-	+ gopath-get      legacy GOPATH go get
-	+ goproxy         module proxy protocol
-	+ importpath      import path syntax
-	+ modules         modules, module versions, and more
-	+ module-get      module-aware go get
-	+ module-auth     module authentication using go.sum
-	+ packages        package lists and patterns
-	+ private         configuration for downloading non-public code
-	+ testflag        testing flags
-	+ testfunc        testing functions
-	+ vcs             controlling version control with GOVCS
-
-Use "go help <topic>" for more information about that topic.
-</pre>
+    + topics 
+    	+ buildconstraint build constraints
+    	+ buildmode       build modes
+    	+ c               calling between Go and C
+    	+ cache           build and test caching
+    	+ environment     environment variables
+    	+ filetype        file types
+    	+ go.mod          the go.mod file
+    	+ gopath          GOPATH environment variable
+    	+ gopath-get      legacy GOPATH go get
+    	+ goproxy         module proxy protocol
+    	+ importpath      import path syntax
+    	+ modules         modules, module versions, and more
+    	+ module-get      module-aware go get
+    	+ module-auth     module authentication using go.sum
+    	+ packages        package lists and patterns
+    	+ private         configuration for downloading non-public code
+    	+ testflag        testing flags
+    	+ testfunc        testing functions
+    	+ vcs             controlling version control with GOVCS

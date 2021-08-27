@@ -1,7 +1,7 @@
 ###  linux 相关
 ----
 + ipc
-  + unnamed pipe
+  + unnamed pipe ✅
   + named pipe(fifo)
   + IXS IPC（来源于system v)
     + 消息队列
@@ -15,11 +15,11 @@
   + syntax
     + expand
     + builtin
-      + cd
+      + cd ✅
       + type
 + user command
-  + lsof
-  + ps
+  + lsof ✅
+  + ps 
   + strace
   + 
 + system call
